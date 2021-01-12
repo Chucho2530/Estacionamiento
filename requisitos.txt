@@ -1,0 +1,22 @@
+Menu Valet
+* Ocupacion
+
+Menu Admin
+* Usuarios (CRUD)
+* Conductores (CRUD)
+* Vehiculos (CRUD)
+* Registros (Entrada)
+* Cortes de caja
+
+Menu Cajero
+* Conductores (CRUD)
+* Reservaciones
+* Registros (Entrada y Salida)
+* Cortes de caja
+* Graficas
+- Chat
+
+Menu Conductor
+* Mis datos
+* Reservaciones
+- Chat
